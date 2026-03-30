@@ -2,7 +2,7 @@
 
 # Michael Ribeiro
 
-**Desenvolvedor Web Full Stack em formação · TripleTen Brasil**
+**Desenvolvedor Web Full Stack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ribeiro-br/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.jrna@hotmail.com)
@@ -40,14 +40,6 @@ Site completo de biblioteca pública com navegação, seção de eventos e área
 
 [![Deploy](https://img.shields.io/badge/Ver%20ao%20vivo-222?style=flat-square&logo=github)](https://michael-ribeiro-fs.github.io/web_project_library_pt/)
 [![Código](https://img.shields.io/badge/Repositório-555?style=flat-square&logo=github)](https://github.com/michael-ribeiro-fs/web_project_library_pt)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michael-ribeiro-fs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
 
 ---
 
