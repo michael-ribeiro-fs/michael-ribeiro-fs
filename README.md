@@ -1,37 +1,29 @@
-<div align="center">
+<h1 align="center">Michael Ribeiro</h1>
 
-# Michael Ribeiro
-**Desenvolvedor Web Full Stack**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end;Construindo+Aplicações+Web+Modernas;Código+Limpo+%7C+UI%2FUX+%7C+Performance" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ribeiro-br/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.jrna@hotmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-</div>
+<p align="center">
+  Criando interfaces modernas com código limpo e foco na experiência do usuário.
+</p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-ribeiro-br/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-Estou construindo meu portfólio com projetos que aplicam conhecimentos fundamentais para uma ótima engenharia de software, Clean code, POO, organização, clareza, princípios SOLID, UX, arquitetura.
+  <a href="mailto:michael.jrna@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-**Stack atual:** HTML5 · CSS3 · JavaScript · Git/GitHub
-
----
-
-## 🚀 Projetos
-
-### 🗺️ Around The U.S.
-Galeria fotográfica interativa onde usuários adicionam, removem e curtem fotos de lugares pelo país. Vanilla JS, CSS Grid e metodologia BEM.
-
-[![Deploy](https://img.shields.io/badge/Ver%20ao%20vivo-222?style=flat-square&logo=github)](https://michael-ribeiro-fs.github.io/web_project_around_pt/)
-[![Código](https://img.shields.io/badge/Repositório-555?style=flat-square&logo=github)](https://github.com/michael-ribeiro-fs/web_project_around_pt)
-
-### 🌍 De Pátria para Pátria
-Site responsivo com galeria de imagens e narrativa visual, construído com foco em semântica e CSS avançado.
-
-[![Deploy](https://img.shields.io/badge/Ver%20ao%20vivo-222?style=flat-square&logo=github)](https://michael-ribeiro-fs.github.io/web_project_homeland/)
-[![Código](https://img.shields.io/badge/Repositório-555?style=flat-square&logo=github)](https://github.com/michael-ribeiro-fs/web_project_homeland)
-
----
-
-<div align="center">
-<sub>Buscando minha oportunidade como desenvolvedor web · Atualizado em Maio 2026</sub>
-</div>
+  <a href="https://SEUPORTFOLIO.COM">
+    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
