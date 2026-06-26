@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://SEUPORTFOLIO.COM">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
