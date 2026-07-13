@@ -4,10 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end;Construindo+Aplicações+Web+Modernas;Código+Limpo+%7C+UI%2FUX+%7C+Performance" />
 </p>
 
+
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img height="52" src="https://skillicons.dev/icons?i=html"/>
+<img height="52" src="https://skillicons.dev/icons?i=css"/>
+<img height="52" src="https://skillicons.dev/icons?i=js"/>
+<img height="52" src="https://skillicons.dev/icons?i=react"/>
+<img height="52" src="https://skillicons.dev/icons?i=vite"/>
+<img height="52" src="https://skillicons.dev/icons?i=git"/>
+<img height="52" src="https://skillicons.dev/icons?i=github"/>
+<img height="52" src="https://skillicons.dev/icons?i=vscode"/>
+<img height="52" src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+<p align="center">
+  <sub>
+    HTML5 • CSS3 • JavaScript • React • Vite • Git • GitHub • VS Code • Figma
+  </sub>
 </p>
 
 <p align="center">
@@ -20,10 +35,10 @@
   </a>
 
   <a href="mailto:michael.jrna@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 
   <a href="https://michael-ribeiro-fs.github.io/meu-portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
